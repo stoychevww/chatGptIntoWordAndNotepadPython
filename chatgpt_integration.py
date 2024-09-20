@@ -7,7 +7,7 @@ from keyboard import add_hotkey
 from tkinter import scrolledtext
 
 # Set up OpenAI API Key
-openai.api_key = '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'
+openai.api_key = 'API_KEY'
 
 
 
